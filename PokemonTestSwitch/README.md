@@ -1,2 +1,0 @@
-# Pokemon
- School activity practice
